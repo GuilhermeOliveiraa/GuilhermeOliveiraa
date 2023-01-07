@@ -1,7 +1,8 @@
-### Olá! Eu sou o Guilherme Fernandes
-- 🔭 Graduando em Engenharia Eletrônica
-- 🌱 Estudando front-end
-
+### Olá! Eu sou o Guilherme Fernandes de Oliveira 
+- 🎓 Graduando em Engenharia Eletrônica
+- 📚 Pretendo me tornar um desenvolvedor front-end
+- 🛠️ Vou estar publicando tanto projetos de eletrônica e quanto de programação 
+ 
 <div>
   <a href="https://github.com/guilhermefernadesk">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=guilhermefernandesk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
