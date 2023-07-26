@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Fernandes de Oliveira 
 - 🎓 Graduando em Engenharia Eletrônica
-- 📱 Realizei um curso de Flutter
-- 📚 Pretendo me tornar um desenvolvedor front-end
+- 📱 Desenvolvedor Mobile
+- 📚 Desenvolvedor Front-end
 - 🛠️ Vou estar publicando projetos de eletrônica e de programação
  
 <div>
