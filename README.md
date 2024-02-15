@@ -1,6 +1,4 @@
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=40&&pause=1000&color=fff&duration=4000&lines=Hi👋, I'm Guilherme Fernandes;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&height=40&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Guilherme+Fernandes)](https://git.io/typing-svg)
 
 I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursuing a degree in Electronic Engineering. I will be sharing to share projects in electronics and programming.
 
@@ -26,28 +24,24 @@ I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursu
 
 ## 🦾 My Skills
 
+<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-" target="_blank">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white
-" target="_blank">
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-" target="_blank">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-" target="_blank">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
-" target="_blank">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank">
+</div>
 
 ## 🚀 Highlight Projects
 
@@ -58,7 +52,5 @@ I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursu
 ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermefernandesk&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=dracula" alt="guilhermefernandesk" /></a> </p>
-
-#
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermefernandesk&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermefernandesk" /> </p>
