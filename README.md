@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&height=40&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Guilherme+Fernandes)](https://git.io/typing-svg)
 
-I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursuing a degree in Electronic Engineering. I will be sharing to share projects in electronics and programming.
+I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursuing a degree in Electronic Engineering. I will be sharing electronics and programming projects.
 
 - 🔭 I’m currently working on [site-bellatrixsz](https://bellatrixsz.netlify.app)
 
